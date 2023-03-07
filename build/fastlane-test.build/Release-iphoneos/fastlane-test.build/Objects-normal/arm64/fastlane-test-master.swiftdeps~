@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
-options: "31b33fd6425f36545ba2c33c61d39658dccce6c9e56898a3a967e3f342a4d4f3"
-build_start_time: [1678115475, 602120876]
-build_end_time: [1678115475, 616890907]
-inputs:
-  "/Users/heon/Projects/fastlane-test/fastlane-test/ContentView.swift": !dirty [1678097092, 656015872]
-  "/Users/heon/Projects/fastlane-test/fastlane-test/fastlane_testApp.swift": !dirty [1678097058, 586948156]
