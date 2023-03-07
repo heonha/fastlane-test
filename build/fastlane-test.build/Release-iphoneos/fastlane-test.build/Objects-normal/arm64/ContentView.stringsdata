@@ -1,0 +1,20 @@
+{
+  "source": "/Users/heon/Projects/fastlane-test/fastlane-test/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Fastlane Tester"
+      },
+      {
+        "comment": "",
+        "key": "And"
+      },
+      {
+        "comment": "",
+        "key": "Combine Jenkins"
+      }
+    ]
+  },
+  "version": 1
+}
